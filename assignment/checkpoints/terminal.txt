@@ -17,6 +17,6 @@ git version 2.15.0
 # 8 - Why would you run the command 'git status'?
 To see what works been done and put it in the staging area
 # 9 - What does the command 'git add .' do?
-This commits the changes made, essentially saving them
+This puts all the changes in the staging area, ready to be committed
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main
