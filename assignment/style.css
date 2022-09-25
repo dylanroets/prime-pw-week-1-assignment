@@ -1,9 +1,18 @@
 /* Give your page a fun background color */
-
+body {
+    background-color: bisque;
+}
 /* Make the header and footer a different color from the background */
-
+footer {
+    background-color: rgba(200, 37, 37, 0.99);
+}
+header {
+    background-color: rgba(200, 37, 37, 0.99);
+}
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {
+    text-align: center;
+}
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
